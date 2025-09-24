@@ -64,7 +64,7 @@ python -m streamlit run app.py
 * Use the slider to filter by publication year and explore visualizations.
 
 
-Project Files
+## Project Files
 
 * assignment.ipynb — Jupyter notebook with analysis and visualizations (Parts 1–3)
 
